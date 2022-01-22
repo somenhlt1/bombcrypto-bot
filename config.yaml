@@ -1,0 +1,9 @@
+#Time out for deploying heroes in seconds
+timeout: 1800
+
+#Time out for refreshing hero's location in seconds
+timeout_refresh: 120
+
+#Number of hero to deployed
+
+heroes: 15
